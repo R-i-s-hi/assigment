@@ -1,0 +1,11 @@
+=== Project Execution Logs ===
+
+Server started successfully on port 5000
+MongoDB Atlas connected successfully
+JWT authentication working
+Role-based access tested
+CRUD APIs tested successfully using Thunder Client
+Swagger documentation working at /api-docs
+Frontend connected successfully with backend APIs
+
+Project executed without runtime errors.
