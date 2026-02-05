@@ -13,6 +13,9 @@ Node.js, Express, MongoDB Atlas, JWT, React
 
 ## Setup
 
+### Clone
+- git clone https://github.com/R-i-s-hi/assigment.git
+
 ### Backend
 - cd backend
 - npm install
