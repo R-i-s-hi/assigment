@@ -14,17 +14,27 @@ Node.js, Express, MongoDB Atlas, JWT, React
 ## Setup
 
 ### Backend
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ## API Docs
 http://localhost:5000/api-docs
+
+## Test Credentials
+
+### Admin User
+- Email: rishabh@gmail.com  
+- Password: 123456  
+(Admin can manage all tasks)
+
+### Normal User
+You can register a new user from the frontend to test normal access.
 
 ## Scalability Notes
 The backend uses modular architecture and stateless JWT authentication, enabling horizontal scaling.
